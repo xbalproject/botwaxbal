@@ -1,7 +1,7 @@
 {
   "name": "Jangan-Ubah-Iky-Ads",
   "version": "1.0.0",
-  "description": "Gak Ada",
+  "description": "BOT WA GEMGE",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "nino",
+  "author": "XBAL",
   "dependencies": {
   "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "axios": "^0.21.1",
