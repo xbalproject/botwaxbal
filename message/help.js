@@ -213,7 +213,7 @@ Bot gw jalan awokawoak
 Jika sudah dipahami rules-nya, silakan ketik *#menu* untuk memulai!
 
 Owner  BOTZ:
-wa.me/6285215319934
+wa.me/6282302332518
 `
 }
 exports.infoMenu = (prefix) => {
