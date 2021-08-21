@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rizkiadiasa/NinoWangy"
+    "url": "git+https://github.com/xbalproject/botwaxbal"
   },
   "bugs": {
-    "url": "https://github.com/rizkiadiasa/NinoWangy/issues"
+    "url": "https://github.com/xbalproject/botwaxbal/issues"
   },
-  "homepage": "https://github.com/rizkiadiasa/NinoWangy#readme"
+  "homepage": "https://github.com/xbalproject/botwaxbal#readme"
 }
